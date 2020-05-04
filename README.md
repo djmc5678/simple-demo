@@ -1,2 +1,3 @@
-# simple-demo
-For testing
+# Simple example repository
+
+This is a simple example repository
